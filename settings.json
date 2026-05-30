@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "24/7 Bot",
     "password": "lololo",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "kvantumsmp.aternos.me",
