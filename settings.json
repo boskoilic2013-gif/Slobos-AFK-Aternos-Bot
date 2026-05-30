@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7BOT",
+    "username": "WarOG",
     "password": "lololo",
     "type": "offline"
   },
   "server": {
-    "ip": "DarkPVPSMPs1.aternos.me",
-    "port": 62697,
+    "ip": "kvantumsmp.aternos.me",
+    "port": 13340,
     "version": "1.21.11",
     "try-creative": false
   },
